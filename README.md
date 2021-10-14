@@ -1,4 +1,4 @@
-### Olá eu sou wellingtonMesquita 👋
+### Olá eu sou wellington Mesquita 👋
 
 - 🔭 Hoje trabalho como stack overflow Java e Angular.
 - 🌱 Estudo programação web e segurança da informação.
