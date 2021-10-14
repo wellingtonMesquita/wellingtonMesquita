@@ -19,5 +19,5 @@
   <img align="center" alt="Wellington-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Wellington-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Wellington-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Wellington-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/846743917802160128/898217908654714893">
+  <img align="right" alt="Wellington-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c2d90cf8f8bba76b294a3f91ef3bd2e0.gif">
 </div>
