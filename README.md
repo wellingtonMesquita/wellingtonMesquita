@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como stack overflow Java e Angular.
 - 🌱 Estudo programação web e segurança da informação.
-- 📫 Contateme no email wellington88tads@gmail.com
 - 😄 Ele/Dele
 
 <div align="center">
@@ -21,11 +20,10 @@
   <img align="center" alt="Wellington-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="right" alt="Wellington-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c2d90cf8f8bba76b294a3f91ef3bd2e0.gif">
 </div>
-<div> 
- 
   
- 
-
+   ##
+  
+<div> 
   <a href = "mailto:wellington88tads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/wellingtonMesquita/wellingtonMesquita/blob/output/github-contribution-grid-snake.svg)
  
